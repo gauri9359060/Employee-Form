@@ -1,0 +1,22 @@
+{
+  "employeeData": [
+    {
+      "name": "gauri",
+      "age": "22",
+      "address": "Maharashtra",
+      "department": "HR",
+      "salary": "50022",
+      "isMarried": false,
+      "id": 1
+    },
+    {
+      "name": "masai",
+      "age": "2",
+      "address": "bangluru",
+      "department": "IT",
+      "salary": "600000",
+      "isMarried": true,
+      "id": 2
+    }
+  ]
+}
